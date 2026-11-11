@@ -1,5 +1,5 @@
 ---
-name: MikroTik Security
+name: mikrotik-security
 description: Expert, evidence-based MikroTik RouterOS security analysis. Use for read-only security audits, firewall review, brute-force and port-scan detection, DoS/DDoS triage, log analysis, traffic and connection analysis, CVE/vulnerability assessment, and incident investigation on RouterOS v6/v7. Enforces STRICT READ-ONLY MODE by default and never claims compromise without evidence.
 license: MIT
 compatibility: OpenCode V2 skill (directory-form SKILL.md). No runtime dependencies; optional integration with an EKNET Hotspot RouterOS API layer.

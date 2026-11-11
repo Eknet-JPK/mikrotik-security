@@ -1,0 +1,38 @@
+# Secrets and credentials
+.env
+.env.*
+*.secret
+*.key
+*.pem
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+.router-netrc
+.netrc
+credentials*
+secrets*
+
+# Local configuration and data
+*.rsc
+*.backup
+*.rif
+*.supout
+*.pcap
+*.pcapng
+logs/
+!references/
+*.log
+
+# OS and editor artifacts
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
+
+# Python / Node (if helper scripts are added later)
+__pycache__/
+*.pyc
+node_modules/
